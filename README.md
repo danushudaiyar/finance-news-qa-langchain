@@ -1,5 +1,5 @@
 ﻿# finance-news-qa-langchain
-You can create a README.md with the following structure:
+
 
 # Finance News QA Tool using LangChain & OpenAI
 
@@ -47,4 +47,5 @@ Get answers with sources
 
 
 ---
+
 
